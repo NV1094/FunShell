@@ -93,6 +93,9 @@ QQ, Now with Superpowers
 
 感谢您的支持与理解！
 
+#用户列表
+
+http://api.60s.icu/API/data/user.php
 
 --------
 
