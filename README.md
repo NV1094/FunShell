@@ -1,7 +1,7 @@
 <div align="center">
     <h1> FunShell </h1>
 
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)]([(https://t.me/FunShell_hub)])
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=CI&color=0088cc)](https://t.me/FunShell_hub)
 
 QQ, Now with Superpowers
 </div>
