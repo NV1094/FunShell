@@ -65,6 +65,7 @@ QQ, Now with Superpowers
 - 群快捷栏修改
 - 魔法图片
 - 显示发送者QQ版本号
+- 音乐侧滑
 
 
 ### 其它
