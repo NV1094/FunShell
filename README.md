@@ -87,6 +87,7 @@ QQ, Now with Superpowers
 
 # Support / 赞助
 
+<img src="https://free.picui.cn/free/19958/2026/10/20/6ad77115cca8a.png" alt="img" width="400" height="400">
 
 
 - 赞助完全自愿，赞助者不会获得任何特权，且不赞助的用户依然可以使用所有功能。
