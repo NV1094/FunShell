@@ -6,11 +6,7 @@
   <td>单次赞助金额</td>
 </tr>
 <tr>
-  <td>夏风云</td>
-  <td>50 CNY</td>
-</tr>
-<tr>
-  <td>霜柯</td>
-  <td>30 CNY</td>
+  <td>暂无</td>
+  <td>0 CNY</td>
 </tr>
 </table>
