@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=CI&color=0088cc)](https://t.me/FunShell_hub)
 [![QQ交流群](https://img.shields.io/static/v1?label=QQ交流群&message=Chat&color=0088cc)](https://qm.qq.com/q/OQr1ka16cE)
 
-QQ, Now with Superpowers
+QQ快乐壳，越用越快乐！
 </div>
 
 > [!WARNING]  
